@@ -1,4 +1,4 @@
-module "github.com/toukii/jsnm"
+module "github.com/VICENT101/jsnm"
 
 require (
 "github.com/everfore/exc" v0.0.1
